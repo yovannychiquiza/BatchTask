@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BatchTask", "BatchTasks\BatchTask.csproj", "{57306CE1-AADE-4965-97EC-98176B0ED7C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BatchService", "BatchService\BatchService.csproj", "{7604CF17-90ED-482C-8DF1-0659E5099B70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57306CE1-AADE-4965-97EC-98176B0ED7C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57306CE1-AADE-4965-97EC-98176B0ED7C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57306CE1-AADE-4965-97EC-98176B0ED7C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57306CE1-AADE-4965-97EC-98176B0ED7C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7604CF17-90ED-482C-8DF1-0659E5099B70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7604CF17-90ED-482C-8DF1-0659E5099B70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7604CF17-90ED-482C-8DF1-0659E5099B70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7604CF17-90ED-482C-8DF1-0659E5099B70}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC755BB9-ADB4-4930-BA16-1A5076A3D370}
+	EndGlobalSection
+EndGlobal
